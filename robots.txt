@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://JorgeTorrv.github.io/archive-qtssq2/sitemap.xml
